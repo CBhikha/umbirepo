@@ -1,0 +1,29 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.csir.umbiflow</Name>
+  <DisplayName>Core application</DisplayName>
+  <Description>The Umbiflow application.</Description>
+  <Version>0.0-10.0</Version>
+  <ReleaseDate>2023-11-29</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="38408669" UncompressedSize="70941657"/>
+  <DownloadableArchives>audio.7z,bearer.7z,imageformats.7z,platforms.7z,sqldrivers.7z,styles.7z,vsredist.7z,content.7z</DownloadableArchives>
+  <SHA1>5507d11092a6a2a911f523d7fc8e0d0d6c179345</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.csir.umbiflow.manual</Name>
+  <DisplayName>User manual</DisplayName>
+  <Description>PDF full user manual</Description>
+  <Version>0.0-10.0</Version>
+  <ReleaseDate>2023-11-29</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="2814109" UncompressedSize="4833597"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>6ea4550e41e4fafacff438a0d716ac44bef1663f</SHA1>
+ </PackageUpdate>
+ <SHA1>f228e59a11cbac933767e5efd80a71232d4519d4</SHA1>
+ <MetadataName>2024-02-26-1418_meta.7z</MetadataName>
+</Updates>
