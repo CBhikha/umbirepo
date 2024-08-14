@@ -6,13 +6,13 @@
   <Name>com.csir.umbiflow</Name>
   <DisplayName>Core application</DisplayName>
   <Description>The Umbiflow application.</Description>
-  <Version>1.11.0</Version>
-  <ReleaseDate>2024-04-26</ReleaseDate>
+  <Version>1.11.1</Version>
+  <ReleaseDate>2024-08-14</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="46081005" UncompressedSize="89371401" OS="Any"/>
+  <UpdateFile UncompressedSize="89371401" CompressedSize="46081047" OS="Any"/>
   <DownloadableArchives>audio.7z,bearer.7z,imageformats.7z,platforms.7z,sqldrivers.7z,styles.7z,vcredist64.7z,vcredist86.7z,content.7z</DownloadableArchives>
-  <SHA1>ec49f83a9d075e3f1dbac48a11bc756b6ebb8669</SHA1>
+  <SHA1>eebda76dee19bb7b641deddf03ce7036f17d9cb9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.csir.umbiflow.manual</Name>
@@ -21,10 +21,10 @@
   <Version>12.0</Version>
   <ReleaseDate>2024-02-23</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="3026450" UncompressedSize="4913555" OS="Any"/>
+  <UpdateFile UncompressedSize="4913555" CompressedSize="3026450" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>af5481057a92014b326508e49462f5920afc9496</SHA1>
+  <SHA1>15acd3983d07c38e5b85e3e74b96c4942d4f9727</SHA1>
  </PackageUpdate>
- <SHA1>651c3c7c462ce2a5102b90a742cf214a0e29be73</SHA1>
- <MetadataName>2024-08-14-1150_meta.7z</MetadataName>
+ <SHA1>660b950f946094464d365d4615f0ca0f87ae2425</SHA1>
+ <MetadataName>2024-08-14-2007_meta.7z</MetadataName>
 </Updates>
